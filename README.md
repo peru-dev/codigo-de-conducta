@@ -79,7 +79,7 @@ evento de pago).
 Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier
 inquietud, por favor comunícate con un organizador del meetup lo antes posible.
 
-Email: hola@peru-dev.org
+Email: peru.develop@gmail.com
 
 Adicionalmente, los organizadores comunitarios están disponibles para ayudar
 a miembros de la comunidad a contactar a la policía local o interceder para que
@@ -149,7 +149,7 @@ comunicaciones de uno-a-uno pertinentes a los negocios de la comunidad.
 
 ## 9. Contacto
 
-- hola@peru-dev.org
+- peru.develop@gmail.com
 - [@peru_dev](https://twitter.com/peru_dev)
 
 ## 10. Licencia y atribución
