@@ -3,7 +3,7 @@
 ## 1. Propósito
 
 Uno de los objetivos principales de `Perú Dev` es ser inclusiva para el
-mayor número de contribuyentes, con la mayor diversidad de orígenes posibles.
+mayor número de colaboradores, con la mayor diversidad de orígenes posibles.
 Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y
 acogedor para todos, independientemente de su sexo, orientación sexual,
 capacidad, etnia, nivel socioeconómico, y religión (o falta de la misma).
@@ -48,8 +48,8 @@ Comportamientos inaceptables incluyen: intimidación, acoso, abuso,
 discriminación, comunicación despectiva o degradante o acciones por cualquier
 participante en nuestra comunidad ya sea en internet, en todos los eventos
 relacionados y en las comunicaciones uno-a-uno que se realizan en el contexto de
-los negocios de la comunidad. Es posible que los lugares para eventos
-comunitarios sean de uso compartido con los miembros del público; por favor ser
+las actividades de la comunidad. Es posible que los lugares para eventos
+comunitarios sean de uso compartido con miembros del público; por favor ser
 respetuoso con todos aquellos que los frecuentan.
 
 El acoso incluye: comentarios nocivos o perjudiciales, verbales o escritos
@@ -60,7 +60,7 @@ seguimiento; fotografías o grabaciones acosadoras; interrupción sostenida de
 charlas y otros eventos; contacto físico inapropiado, y atención sexual no
 deseada.
 
-## 5. Consecuencias de comportamiento inaceptable
+## 5. Consecuencias del comportamiento inaceptable
 
 El comportamiento inaceptable de cualquier miembro de la comunidad, incluyendo
 patrocinadores y aquellos con poder de decisión, no será tolerado.
@@ -70,11 +70,11 @@ inaceptable lo hagan de manera inmediata.
 
 Si un miembro de la comunidad participa en una conducta inaceptable, los
 organizadores comunitarios pueden tomar cualquier acción que consideren
-apropiada, hasta e incluyendo una prohibición temporal o expulsión permanente
+apropiada, incluyendo una prohibición temporal o expulsión permanente
 de la comunidad, sin previo aviso (y sin derecho a reembolso en el caso de un
 evento de pago).
 
-## 6. Si usted es testigo o es objeto de comportamiento inaceptable
+## 6. Reporte de comportamiento inaceptable
 
 Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier
 inquietud, por favor comunícate con un organizador del meetup lo antes posible.
@@ -84,9 +84,8 @@ Email: peru.develop@gmail.com
 Adicionalmente, los organizadores comunitarios están disponibles para ayudar
 a miembros de la comunidad a contactar a la policía local o interceder para que
 víctimas de comportamiento inaceptable se sientan seguros,
-En el contexto de los eventos en persona, los organizadores
-también pueden proporcionar escoltas si un miembro de la comunidad lo siente
-necesario.
+En el contexto de los eventos en persona, los organizadores también pueden
+proporcionar escoltas si un miembro de la comunidad lo siente necesario.
 
 ## 7. Políticas de moderación
 
@@ -142,10 +141,10 @@ actúe de forma honrada.
 
 ## 8. Alcance
 
-Esperamos que todos los participantes de la comunidad (contribuyentes, pagados o
+Esperamos que todos los participantes de la comunidad (colaboradores, pagados o
 de otro modo; patrocinadores; y otros invitados) se atengan a este Código de
 Conducta en todos los espacios virtuales y presenciales, así como en todas las
-comunicaciones de uno-a-uno pertinentes a los negocios de la comunidad.
+comunicaciones de uno-a-uno pertinentes a las actividades de la comunidad.
 
 ## 9. Contacto
 
@@ -157,4 +156,4 @@ comunicaciones de uno-a-uno pertinentes a los negocios de la comunidad.
 Este Código de Conducta se distribuye bajo una licencia [Creative Commons – ShareAlike (BY-SA)](http://creativecommons.org/licenses/by-sa/3.0/)
 
 Adaptado del [Código de Conducta de Stumptown Syndicate](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md) y
-[el de `colombia.dev`](https://github.com/colombia-dev/codigo-de-conducta).
+el de [`colombia.dev`](https://github.com/colombia-dev/codigo-de-conducta).
